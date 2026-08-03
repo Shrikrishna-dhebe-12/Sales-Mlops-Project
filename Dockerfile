@@ -1,7 +1,4 @@
-FROM ubuntu:latest
-LABEL authors="Harish"
 
-ENTRYPOINT ["top", "-b"]
 FROM python:3.11-slim
 
 WORKDIR /app
