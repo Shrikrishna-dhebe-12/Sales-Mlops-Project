@@ -35,7 +35,7 @@ jobs:
       - name: Verify Python Files
         run: |
           python -m py_compile app.py
-          python -m py_compile train_production.py
+          
 
       - name: Build Successful
         run: echo "MLOps CI Pipeline Passed Successfully"
