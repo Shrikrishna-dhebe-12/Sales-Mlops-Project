@@ -243,4 +243,4 @@ Shrikrushna Dhebe**
 Python | Automation | Data Analysis | Machine Learning | MLOps | Data Science | GEN AI | Deep learning | Machine learning |
 
 **License**
-This project is developed for educational, portfolio, and learning purposes.
+This project is developed for educational, portfolio, and learning .
